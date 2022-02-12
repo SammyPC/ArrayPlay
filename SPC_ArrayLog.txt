@@ -1,0 +1,13 @@
+
+Sum: 4317.0 Average: 4.0
+Sum: 4662.0 Average: 4.0
+Sum: 4667.0 Average: 4.0
+Sum: 5128.0 Average: 5.0
+Sum: 5073.0 Average: 5.0
+Sum: 5070.0 Average: 5.0
+Sum: 5055.0 Average: 5.0
+Sum: 4942.0 Average: 4.0
+Sum: 4901.0 Average: 4.0
+Sum: 4841.0 Average: 4.0
+Sum: 4975.0 Average: 4.0
+Sum: 5481.0 Average: 5.0
